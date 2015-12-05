@@ -1,0 +1,23 @@
+ros-jade-tf-keyboard-cal (0.0.4-0utopic) utopic; urgency=high
+
+  * catkin lint cleanup
+  * Fixed travis
+  * Contributors: Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Sat, 05 Dec 2015 07:00:00 -0000
+
+ros-jade-tf-keyboard-cal (0.0.3-0utopic) utopic; urgency=high
+
+  * Rename dependency ros_param_shortcuts to rosparam_shortcuts
+  * Contributors: Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Thu, 03 Dec 2015 07:00:00 -0000
+
+ros-jade-tf-keyboard-cal (0.0.2-0utopic) utopic; urgency=high
+
+  * Initial Commit
+  * Contributors: Andy McEvoy, Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Thu, 03 Dec 2015 07:00:00 -0000
+
+
