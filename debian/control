@@ -1,0 +1,12 @@
+Source: ros-jade-tf-keyboard-cal
+Section: misc
+Priority: extra
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-keyboard, ros-jade-roscpp, ros-jade-roslib, ros-jade-rosparam-shortcuts, ros-jade-tf, ros-jade-tf2
+Homepage: https://github.com/davetcoleman/tf_keyboard_cal
+Standards-Version: 3.9.2
+
+Package: ros-jade-tf-keyboard-cal
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-keyboard, ros-jade-roscpp, ros-jade-rosparam-shortcuts, ros-jade-tf, ros-jade-tf2
+Description: Allows manual control of a TF through the keyboard
