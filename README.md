@@ -1,3 +1,24 @@
+## tf_keyboard_cal (jade) - 0.0.4-0
+
+The packages in the `tf_keyboard_cal` repository were released into the `jade` distro by running `/usr/bin/bloom-release tf_keyboard_cal -t jade -r jade` on `Sat, 05 Dec 2015 21:19:10 -0000`
+
+The `tf_keyboard_cal` package was released.
+
+Version of package(s) in repository `tf_keyboard_cal`:
+- upstream repository: https://github.com/davetcoleman/tf_keyboard_cal.git
+- release repository: https://github.com/davetcoleman/tf_keyboard_cal-release.git
+- rosdistro version: `0.0.3-0`
+- old version: `0.0.3-0`
+- new version: `0.0.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## tf_keyboard_cal (jade) - 0.0.3-0
 
 The packages in the `tf_keyboard_cal` repository were released into the `jade` distro by running `/usr/bin/bloom-release tf_keyboard_cal -t jade -r jade` on `Sat, 05 Dec 2015 18:21:12 -0000`
