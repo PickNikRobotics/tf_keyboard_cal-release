@@ -1,0 +1,12 @@
+Source: ros-indigo-tf-keyboard-cal
+Section: misc
+Priority: extra
+Maintainer: Dave Coleman <davetcoleman@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-cmake-modules, ros-indigo-keyboard, ros-indigo-roscpp, ros-indigo-roslib, ros-indigo-rosparam-shortcuts, ros-indigo-tf, ros-indigo-tf2
+Homepage: https://github.com/davetcoleman/tf_keyboard_cal
+Standards-Version: 3.9.2
+
+Package: ros-indigo-tf-keyboard-cal
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-keyboard, ros-indigo-roscpp, ros-indigo-rosparam-shortcuts, ros-indigo-tf, ros-indigo-tf2
+Description: Allows manual control of a TF through the keyboard
