@@ -1,3 +1,26 @@
+## tf_keyboard_cal (indigo) - 0.1.1-0
+
+The packages in the `tf_keyboard_cal` repository were released into the `indigo` distro by running `/usr/bin/bloom-release tf_keyboard_cal -t indigo -r indigo` on `Fri, 01 Jul 2016 01:59:02 -0000`
+
+The `tf_keyboard_cal` package was released.
+
+Version of package(s) in repository `tf_keyboard_cal`:
+
+- upstream repository: https://github.com/davetcoleman/tf_keyboard_cal.git
+- release repository: https://github.com/davetcoleman/tf_keyboard_cal-release.git
+- rosdistro version: `0.0.6-1`
+- old version: `0.0.6-1`
+- new version: `0.1.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## tf_keyboard_cal (indigo) - 0.0.6-1
 
 The packages in the `tf_keyboard_cal` repository were released into the `indigo` distro by running `/usr/bin/bloom-release tf_keyboard_cal -t indigo -r indigo` on `Tue, 09 Feb 2016 22:26:47 -0000`
