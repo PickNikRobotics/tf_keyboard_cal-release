@@ -1,0 +1,48 @@
+ros-indigo-tf-keyboard-cal (0.1.1-0saucy) saucy; urgency=high
+
+  * Install launch files
+  * Added new screenshot for imarkers
+  * Updated README, tweaked arrow
+  * Adding TF Interactive marker
+  * Contributors: Dave Coleman, Gaël Ecorchard, Sammy Pfeiffer
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Thu, 30 Jun 2016 06:00:00 -0000
+
+ros-indigo-tf-keyboard-cal (0.0.6-0saucy) saucy; urgency=high
+
+  * API deprecation fix for rosparam_shortcuts
+  * Contributors: Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Wed, 13 Jan 2016 07:00:00 -0000
+
+ros-indigo-tf-keyboard-cal (0.0.5-0saucy) saucy; urgency=high
+
+  * Fix roslaunch file
+  * Updated README
+  * Contributors: Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Sun, 27 Dec 2015 07:00:00 -0000
+
+ros-indigo-tf-keyboard-cal (0.0.4-0saucy) saucy; urgency=high
+
+  * catkin lint cleanup
+  * Fixed travis
+  * Contributors: Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Sat, 05 Dec 2015 07:00:00 -0000
+
+ros-indigo-tf-keyboard-cal (0.0.3-0saucy) saucy; urgency=high
+
+  * Rename dependency ros_param_shortcuts to rosparam_shortcuts
+  * Contributors: Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Thu, 03 Dec 2015 07:00:00 -0000
+
+ros-indigo-tf-keyboard-cal (0.0.2-0saucy) saucy; urgency=high
+
+  * Initial Commit
+  * Contributors: Andy McEvoy, Dave Coleman
+
+ -- Dave Coleman <davetcoleman@gmail.com>  Thu, 03 Dec 2015 07:00:00 -0000
+
+
